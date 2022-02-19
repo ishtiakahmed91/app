@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+  display: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #7B61FF;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+}
+
+body {
+    padding-top: 3em !important;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+}
+
+ul li {
+  list-style: disc;
+}
+
+ul li:before {
+    content: none
+}
