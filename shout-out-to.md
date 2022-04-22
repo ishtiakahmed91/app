@@ -12,3 +12,8 @@ Shout out to our contributors and supporters -
 #### Testing:
 - Yuvaraj Mohanbabu - QA Test Engineer [LinkedIn](https://www.linkedin.com/in/yuvaraj-mohanbabu-240742113/)
 - Rehnuma Tasnim - [LinkedIn](https://www.linkedin.com/in/rehnuma-tasnim-lamia/)
+
+#### Library 
+- [SwiftGen](https://github.com/SwiftGen/SwiftGen)
+- [SDWebImage](https://github.com/SDWebImage/SDWebImage)
+- [Airbnb's Lottie](https://github.com/airbnb/lottie-ios)
