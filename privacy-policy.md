@@ -1,7 +1,7 @@
 
 
 ## Privacy Policy
-Last updated: 01.03.2022
+Last updated: 01.04.2022
 
 ### Information Collection and Use
 We don’t collect any user information such as personal data(Email, phone number, address etc.) All activity information that you input into the app remains privately stored on your device. Data is directly synced with iCloud without any third party interactions. iCloud secures your information by encrypting it when it's in transit and storing it in iCloud in an encrypted format. Many Apple services use end-to-end encryption, which means that only you can access your information, and only on trusted devices where you're signed in with your Apple ID. More information about Apple/iCloud privacy and security can be found here [iCloud security overview](https://support.apple.com/en-us/HT202303#:~:text=Data%20security,in%20with%20your%20Apple%20ID.y) and [Apple Privacy Policy](https://www.apple.com/legal/privacy/en-ww/)
