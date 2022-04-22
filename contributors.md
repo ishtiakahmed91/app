@@ -1,7 +1,0 @@
-Moodity:
-
-Design & Influence: 
-
-
-Translation: 
-
