@@ -1,5 +1,5 @@
 ## Terms of Services
-Last updated: 01.03.2022
+Last updated: 01.04.2022
 Please read these terms of services carefully before using our service.
 
 ### Interpretation and Definitions
@@ -8,10 +8,10 @@ The words of which the initial letter is capitalized have meanings defined under
 
 #### Definitions
 For the purposes of these terms:
-- Application means the software program provided by the company downloaded by you named HabitOn
+- Application means the software program/app provided by the company downloaded by you. 
 - Application Store means the digital distribution service operated and developed by Apple Inc. Apple App Store in which the application has been downloaded.
 - Country refers to: Germany
-- Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to HabitOn(Ishtiak Ahmed & Kazi Munshimun Nabi)
+- Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to an app(Developed by - Ishtiak Ahmed & Kazi Munshimun Nabi)
 - Device means any device that can access the service such as an iPhone or a iPad.
 - Service refers to the Application itself.
 - Terms of services (also referred as "Terms") mean these terms and conditions that form the entire agreement between you and the company regarding the use of the service. 
@@ -91,5 +91,5 @@ All contents, logos and service marks displayed on the app are our property. You
 
 ### Contact Us
 If you have any questions about these terms, you can contact us:
-•	by email: info.habiton@gmail.com
+•	by email: contactapp@gmail.com
 
