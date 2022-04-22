@@ -9,5 +9,5 @@ Design & Influence:
 Alze arafat - [Instagram](https://www.instagram.com/alzearafat/)
 
 Testing:
-Yuvaraj Mohanbabu - QA Test Engineer [LinkedIn](https://www.linkedin.com/in/yuvaraj-mohanbabu-240742113/)
-Rehnuma Tasnim - [LinkedIn](https://www.linkedin.com/in/rehnuma-tasnim-lamia/)
+- Yuvaraj Mohanbabu - QA Test Engineer [LinkedIn](https://www.linkedin.com/in/yuvaraj-mohanbabu-240742113/)
+- Rehnuma Tasnim - [LinkedIn](https://www.linkedin.com/in/rehnuma-tasnim-lamia/)
