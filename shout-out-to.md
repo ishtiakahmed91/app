@@ -7,7 +7,7 @@ Shout out to our contributors and supporters -
 ### Moodity
 
 #### Design & Influence: 
-- Alze arafat - [Instagram](https://www.instagram.com/alzearafat/)
+- Alze arafat - [Instagram](https://www.instagram.com/alzearafat/) - Community Articles Logo
 
 #### Testing:
 - Yuvaraj Mohanbabu - QA Test Engineer [LinkedIn](https://www.linkedin.com/in/yuvaraj-mohanbabu-240742113/)
