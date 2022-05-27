@@ -91,5 +91,5 @@ All contents, logos and service marks displayed on the app are our property. You
 
 ### Contact Us
 If you have any questions about these terms, you can contact us:
-•	by email: contactapp@gmail.com
+•	by email: info.aiappdev@gmail.com
 
