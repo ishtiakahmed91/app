@@ -39,7 +39,7 @@ By using the app, you consent to this privacy policy.
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. These changes are effective immediately after they are posted on this page.
 
 ### Support or Contact
-If you have any questions or suggestions, you can contact us with email info.habiton@gmail.com.
+If you have any questions or suggestions, you can contact us with email info.aiappdev@gmail.com.
 If you contact us through this email, we will see your name and email address. Your information is only to assist us in providing customer support to you and won’t be added to a mailing list or sold to a third-party company. If you wish, you may email us to remove your name and email address from our inbox.
 
 
