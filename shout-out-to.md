@@ -17,3 +17,6 @@ Shout out to our contributors and supporters -
 - [SwiftGen](https://github.com/SwiftGen/SwiftGen)
 - [SDWebImage](https://github.com/SDWebImage/SDWebImage)
 - [Airbnb's Lottie](https://github.com/airbnb/lottie-ios)
+
+#### Contact us if you want to contribute 
+- info.aiappdev@gmail.com
