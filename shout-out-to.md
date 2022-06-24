@@ -10,8 +10,9 @@ Shout out to our contributors and supporters -
 - Ashley Seo - Avatar 1.0
 
 #### Testing:
-- Yuvaraj Mohanbabu - QA Test Engineer [LinkedIn](https://www.linkedin.com/in/yuvaraj-mohanbabu-240742113/)
+- Yuvaraj Mohanbabu - [LinkedIn](https://www.linkedin.com/in/yuvaraj-mohanbabu-240742113/)
 - Rehnuma Tasnim - [LinkedIn](https://www.linkedin.com/in/rehnuma-tasnim-lamia/)
+- Jonathan Ramirez - [LinkedIn](https://www.linkedin.com/in/jonathanramirezm/)
 
 #### Library 
 - [SwiftGen](https://github.com/SwiftGen/SwiftGen)
