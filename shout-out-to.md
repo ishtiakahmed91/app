@@ -1,16 +1,23 @@
-## Shout Out To
-Last updated: 26.07.2023
+## Shout Out To - Gratitude to Our Supporters
 
-Thank you so very much in advacne for your support and contributions to our application. We are so fortunate to have such generous act and we can never thank you enough for all the support you've shown us. Your contribution means the world to us! 
+We want to express our heartfelt thanks in advance for your invaluable support and contributions to our application. We feel incredibly fortunate to receive such generosity, and there are no words to adequately convey our appreciation for the unwavering support you've extended to us. Your contributions hold immense significance to us!
 
-Shout out to our contributors and supporters - 
+A big shout-out to all our dedicated contributors and supporters:
 
-#### Design & Influence: 
+#### Design & Influence:
+- Mira 
+- Martina 
 - Alze arafat - [Instagram](https://www.instagram.com/alzearafat/) - Community Articles Logo
 - Ashley Seo - Avatar 1.0
 
 #### Development:
-- Sadman Adib - [LinkedIn](https://www.linkedin.com/in/sadman-adib/)
+- Kazi - [LinkedIn](https://www.linkedin.com/in/kazi-munshimun-nabi-b5412470/)
+- Adib - [LinkedIn](https://www.linkedin.com/in/sadman-adib/)
+- Arif - [LinkedIn](https://www.linkedin.com/in/s-m-arif-ahmed/)
+- Ishtiak - [LinkedIn](https://www.linkedin.com/in/ishtiakahmed/)
+- Li Chen
+- Muhammad
+
 
 #### Testing:
 - Yuvaraj Mohanbabu - [LinkedIn](https://www.linkedin.com/in/yuvaraj-mohanbabu-240742113/)
