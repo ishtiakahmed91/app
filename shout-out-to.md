@@ -7,7 +7,6 @@ A big shout-out to all our dedicated contributors and supporters:
 #### Design & Influence:
 - Mira 
 - Martina 
-- Alze arafat - [Instagram](https://www.instagram.com/alzearafat/) - Community Articles Logo
 - Ashley Seo - Avatar 1.0
 
 #### Development:
