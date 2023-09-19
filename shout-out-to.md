@@ -9,14 +9,15 @@ A big shout-out to all our dedicated contributors and supporters:
 - Martina 
 - Ashley Seo - Avatar 1.0
 
-#### Development:
+#### Partners:
 - Kazi - [LinkedIn](https://www.linkedin.com/in/kazi-munshimun-nabi-b5412470/)
 - Adib - [LinkedIn](https://www.linkedin.com/in/sadman-adib/)
 - Arif - [LinkedIn](https://www.linkedin.com/in/s-m-arif-ahmed/)
-- Ishtiak - [LinkedIn](https://www.linkedin.com/in/ishtiakahmed/)
-- Li Chen
-- Muhammad
 
+#### Top Supporters:
+- Li Chen
+- Muhammad Mubin
+- Stefan Fredrich
 
 #### Testing:
 - Yuvaraj Mohanbabu - [LinkedIn](https://www.linkedin.com/in/yuvaraj-mohanbabu-240742113/)
@@ -30,3 +31,5 @@ A big shout-out to all our dedicated contributors and supporters:
 
 #### Contact us if you want to contribute 
 - info.aiappdev@gmail.com
+- Ishtiak - [LinkedIn](https://www.linkedin.com/in/ishtiakahmed/)
+
