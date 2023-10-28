@@ -8,6 +8,10 @@ We don’t collect any user information such as personal data(Email, phone numbe
 ### Crashlytics and Analytics
 Crashlytics and analytics are activated anonymously. Crashlytics data helps us to identify repeated crashes and provide a stable app. Analytics data e.g. - how many pages are explored, how many users use dark mode etc are solely used for making better development decision. Please opt out crashlytics and analytics in app if you don't want to provide us crash/analytical information. We have used Firebase for analytics and crashlytics. More information can be found here [Privacy and Security in Firebase](https://firebase.google.com/support/privacy).
 
+### RevenueCat
+We do not collect, store, or transmit any personal information or information that uniquely identifies you.
+We have used RevenueCat to handle subscriptions and in-app purchases. RevenueCat helps us validate App Store receipts, manage subscription transactions, restore purchases, and synchronize purchase statuses across various devices associated with your Apple ID. RevenueCat provides us with data on when a user first used the app and with information about purchased subscriptions. Transactions are tracked using an anonymous app ID. RevenueCat does not have access to any personal information. For further details, please refer to RevenueCat's privacy policy at: https://www.revenuecat.com/privacy. 
+
 ### GDPR Data Protection Rights
 We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
 
