@@ -1,5 +1,4 @@
 ## Terms of Services
-Last updated: 26.07.2023
 Please read these terms of services carefully before using our service.
 
 ### Interpretation and Definitions
