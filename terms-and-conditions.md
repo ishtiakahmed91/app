@@ -1,7 +1,7 @@
 ## Terms of Use
 Please read these terms of use carefully before using our app and features.
 
-Our Terms of Use are designed to align with and adhere to Apple’s Terms of Use. By using our services, apps, features, you also agree to comply with the guidelines, policies, and standards set forth by Apple. This app uses the standard [Apple Terms of Use (EULA)]([https://www.linkedin.com/in/kazi-munshimun-nabi-b5412470/](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+Our Terms of Use are designed to align with and adhere to Apple’s Terms of Use. By using our services, apps, features, you also agree to comply with the guidelines, policies, and standards set forth by Apple. This app uses the standard [Apple Terms of Use (EULA)][https://www.apple.com/legal/internet-services/itunes/dev/stdeula/]
 
 ### Interpretation and Definitions
 #### Interpretation
