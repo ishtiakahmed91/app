@@ -1,5 +1,7 @@
-## Terms of Services
-Please read these terms of services carefully before using our service.
+## Terms of Use
+Please read these terms of use carefully before using our app and features.
+
+This app uses the standard Apple Terms of Use (EULA)(https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ### Interpretation and Definitions
 #### Interpretation
@@ -13,14 +15,14 @@ For the purposes of these terms:
 - Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to an app(Developed by - Ishtiak Ahmed & Kazi Munshimun Nabi)
 - Device means any device that can access the service such as an iPhone or a iPad.
 - Service refers to the Application itself.
-- Terms of services (also referred as "Terms") mean these terms and conditions that form the entire agreement between you and the company regarding the use of the service. 
+- terms of use (also referred as "Terms") mean these terms and conditions that form the entire agreement between you and the company regarding the use of the service. 
 - You means the individual accessing or using the service, or the company, or other legal entity on behalf of which such individual is accessing or using the service, as applicable.
 
 ### Acknowledgment
-These are the terms of services governing the use of this service and the agreement that operates between you and the company. These terms set out the rights and obligations of all users regarding the use of the Service. Your access to and use of the service is conditioned on your acceptance of and compliance with these terms. These terms apply to all users and others who access or use the service. By accessing or using the service you agree to be bound by these terms. If you disagree with any part of these terms then you must not access the service.
+These are the terms of use governing the use of this service and the agreement that operates between you and the company. These terms set out the rights and obligations of all users regarding the use of the Service. Your access to and use of the service is conditioned on your acceptance of and compliance with these terms. These terms apply to all users and others who access or use the service. By accessing or using the service you agree to be bound by these terms. If you disagree with any part of these terms then you must not access the service.
 
 ### Age Requirement
-You represent that you are over the age of 13 or 16 in the EEA or older to install or to use our app/service. Keep in mind, if you are 13+ or 16+ in the EEA but not  18+ years of age you need permission from your parents/legal guardians who can review the terms for you, discuss any questions you might have, and install the app for you. In the case of year 13+ or but not 18+, As a parent or legal guardians you must grant your child permission to download/use/access the app and you as a parent or gruardian agree to the terms of services on behalf of your child. You as a parent or guardian are responsible for exercising supervision over your children's app usage activities NOT us/app provider. If you do not agree to this terms please do NOT let your child download/use/access the app or any associated app features. 
+You represent that you are over the age of 13 or 16 in the EEA or older to install or to use our app/service. Keep in mind, if you are 13+ or 16+ in the EEA but not  18+ years of age you need permission from your parents/legal guardians who can review the terms for you, discuss any questions you might have, and install the app for you. In the case of year 13+ or but not 18+, As a parent or legal guardians you must grant your child permission to download/use/access the app and you as a parent or gruardian agree to the terms of use on behalf of your child. You as a parent or guardian are responsible for exercising supervision over your children's app usage activities NOT us/app provider. If you do not agree to this terms please do NOT let your child download/use/access the app or any associated app features. 
 
 ### Restricted Use Limitations
 You as a user of the app must not sell, distribute, lease, sublicense of any kind or in any way provide any rights to app or use the app for the benefit of any third party organisation. Unless expressly authorized by us though proper documentataion or permitted under the applicable mobile platform terms such as app store or google play, you are totally prohibited from distributing this app available over a internet/network/any applicable mobile platform where it might be installed or used by certain users or any users. You must agree that you as individual or your company must not use some bot/trojan horse/spider/spam or other automatic or manual device or process to interfere/intervene or make an effort to achieve completly or parcially to interfere with the proper working of the app.
