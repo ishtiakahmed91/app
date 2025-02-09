@@ -34,6 +34,12 @@ You have the right to request that we transfer the data that we have collected t
 
 If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
 
+### Use of AI Technology
+Some of our applications incorporate AI-powered services to enhance user experiences and provide valuable insights. We take your privacy seriously and ensure that no personally identifiable information (PII) is shared with AI service providers. All data processed by the AI is limited to the content you provide during your interaction with the application. Furthermore, we do not store, retain, or use this data beyond the immediate AI processing task. Our commitment to data protection ensures that your information remains secure and confidential at all times. For a comprehensive understanding of how OpenAI handles data, please take a look on OpenAI's privacy policy at [OpenAI Privacy](https://openai.com/policies/row-privacy-policy/).
+
+### Use of Authentication Technology
+Some of our application use Firebase Authentication to securely manage user login and account access. Firebase Authentication handles the authentication process, and we do not store or have access to your password. The information collected during authentication, such as email addresses, is handled securely by Firebase in accordance with Firebase’s Privacy Policy [Firebase Privacy](https://firebase.google.com/support/privacy). We only use this information to authenticate users and enhance user experience within the application. No personal information collected through Authentication is shared with third parties.
+
 ### Your Consent
 By using the app, you consent to this privacy policy.
 
