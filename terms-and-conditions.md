@@ -105,7 +105,7 @@ We may terminate or suspend your access immediately, without prior notice or lia
 
 Some of our apps use AI-powered features to process images and text. Processing may occur on-device and/or on secure servers. User data is not used to train AI models. We use artificial intelligence (AI) to provide certain features, including but not limited to image processing, content analysis, automated enhancements, and intelligent recommendations. By using AI-powered features, you acknowledge that:
   - AI outputs are generated automatically and may not always be perfect or error-free. AI can make mistakes.
-	- AI results are provided for informational or enhancement purposes only.
+  - AI results are provided for informational or enhancement purposes only.
   - You are responsible for how you use or rely on AI-generated outputs.
 
 We do not guarantee accuracy, completeness, or suitability of AI-generated results for any specific purpose. We reserve the right to update, improve, or limit AI features at any time to ensure quality, safety, and compliance with applicable laws.
