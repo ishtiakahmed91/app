@@ -8,7 +8,7 @@ We don’t collect any user information such as personal data(Email, phone numbe
 
 **Is my information safe while using AI features?**
 
-Yes. We take your privacy seriously. The app uses AI features only to process the content you actively provide (such as images or text). We do not share personally identifiable information (PII) with AI service providers. Data is processed only for the requested task and is not stored, retained, or reused beyond the immediate AI operation.
+Yes. We take your privacy seriously. App uses AI features only to process the content you actively provide (such as images or text). We do not share personally identifiable information (PII) with AI service providers. Data is processed only for the requested task and is not stored, retained, or reused beyond the immediate AI operation.
 
 **Does the AI store or learn from my data?**
 
