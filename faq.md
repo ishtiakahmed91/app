@@ -6,6 +6,22 @@ To restore your subscription or lifetime purchase on a new device, ensure you ar
 
 We don’t collect any user information such as personal data(Email, phone number, address etc.) All activity information that you input into the app remains privately stored on your device. Data is directly synced with iCloud without any third party interactions. iCloud secures your information by encrypting it when it's in transit and storing it in iCloud in an encrypted format. Many Apple services use end-to-end encryption, which means that only you can access your information, and only on trusted devices where you're signed in with your Apple ID. More information about Apple/iCloud privacy and security can be found here [iCloud security overview](https://support.apple.com/en-us/HT202303#:~:text=Data%20security,in%20with%20your%20Apple%20ID.y) and [Apple Privacy Policy](https://www.apple.com/legal/privacy/en-ww/)
 
+**Is my information safe while using AI features?**
+
+Yes. We take your privacy seriously. The app uses AI features only to process the content you actively provide (such as images or text). We do not share personally identifiable information (PII) with AI service providers. Data is processed only for the requested task and is not stored, retained, or reused beyond the immediate AI operation.
+
+**Does the AI store or learn from my data?**
+
+No. User data is not used to train, improve, or fine-tune AI models. Once the AI task is completed, the data is discarded in accordance with our privacy practices.
+
+**Is AI processing done on my device or on servers?**
+
+Depending on the feature, AI processing may occur on-device or on secure servers. In all cases, data is processed securely and only for the purpose of delivering the requested feature. We do not sell or share your data with third parties for advertising or profiling.
+
+**What is the Fair Use Policy for AI features?**
+
+Our Fair Use Policy ensures that AI features are used responsibly and fairly. This includes preventing misuse, abuse, or excessive automated usage that could impact performance or violate applicable laws. Fair use helps maintain quality, security, and availability of AI tools for all users. We reserve the right to limit or suspend access to AI features in cases of misuse or policy violations.
+
 **Currently, the app only offers a lifetime purchase. What does that mean?**
 
 The app provides only a lifetime purchase option, meaning you make a one-time payment for permanent access. There are no subscription renewals or additional fees—just pay once and use the app forever.
