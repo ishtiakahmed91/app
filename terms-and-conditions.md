@@ -12,7 +12,7 @@ For the purposes of these terms:
 - Application means the software program/app provided by the company downloaded by you. 
 - Application Store means the digital distribution service operated and developed by Apple Inc. Apple App Store in which the application has been downloaded.
 - Country refers to: Germany
-- Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to an app(Developed by - Ishtiak Ahmed & Kazi Munshimun Nabi)
+- Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to an app(Developed by Ishtiak Ahmed)
 - Device means any device that can access the service such as an iPhone or a iPad.
 - Service refers to the Application itself.
 - terms of use (also referred as "Terms") mean these terms and conditions that form the entire agreement between you and the company regarding the use of the service. 
